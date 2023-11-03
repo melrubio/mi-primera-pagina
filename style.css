@@ -1,0 +1,61 @@
+
+body{
+    background-color: #ffe4ff;
+}
+
+
+main{
+    background-color: #dcb4db;
+}
+.portada{
+    background-image: url("https://e0.pxfuel.com/wallpapers/513/976/desktop-wallpaper-bts-love-yourself-love-yourself-bts-pc.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+h1{
+    color: #742373 ;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size:40px ;
+}
+
+p{
+    color: #964e95 ;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 20px;
+    text-align: justify;
+}
+
+h3{
+    color: #8e3b8b;
+}
+
+h5{
+    text-align: center;
+}
+
+.titulo1{
+    color: #732571;
+    text-align: center;
+}
+
+.cuestionario{
+    color: #5c215b;
+}
+
+#lista-desordenada{
+    color: #af47ac;
+}
+
+#lista-ordenada{
+    color: #af47ac;
+}
+img{
+    width: 770px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 20px;
+}
+
